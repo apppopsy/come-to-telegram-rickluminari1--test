@@ -1,0 +1,80 @@
+<svg width="420" height="980" viewBox="0 0 420 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="24" y1="16" x2="396" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F7FF"/>
+      <stop offset="0.55" stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="32" y1="90" x2="388" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="980" rx="36" fill="url(#bg)"/>
+
+  <rect x="20" y="18" width="380" height="944" rx="32" fill="#FFFFFF"/>
+  <rect x="20" y="18" width="380" height="110" rx="32" fill="#FFFFFF"/>
+  <text x="40" y="58" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Orders</text>
+  <text x="40" y="84" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="13">A calmer, premium mobile order experience.</text>
+  <circle cx="362" cy="60" r="18" fill="#F1F5F9"/>
+
+  <rect x="32" y="144" width="356" height="138" rx="28" fill="url(#hero)"/>
+  <text x="56" y="184" fill="#DBEAFE" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ORDER SNAPSHOT</text>
+  <text x="56" y="222" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Everything feels easier</text>
+  <text x="56" y="248" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="13">Use stacked cards, progress markers, and larger touch targets for actions.</text>
+  <rect x="274" y="170" width="86" height="82" rx="22" fill="white" fill-opacity="0.13"/>
+  <text x="300" y="202" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="12">Open</text>
+  <text x="302" y="234" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">08</text>
+
+  <rect x="32" y="302" width="170" height="86" rx="22" fill="#F8FAFC"/>
+  <text x="52" y="334" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="13">Delivered</text>
+  <text x="52" y="368" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">116</text>
+  <rect x="218" y="302" width="170" height="86" rx="22" fill="#ECFDF5"/>
+  <text x="238" y="334" fill="#047857" font-family="Arial, Helvetica, sans-serif" font-size="13">Awaiting invoice</text>
+  <text x="238" y="368" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">05</text>
+
+  <rect x="32" y="408" width="356" height="54" rx="20" fill="#F8FAFC"/>
+  <rect x="44" y="420" width="156" height="30" rx="15" fill="white"/>
+  <text x="64" y="439" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">Search order</text>
+  <rect x="214" y="420" width="80" height="30" rx="15" fill="#DBEAFE"/>
+  <text x="238" y="439" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Active</text>
+  <rect x="304" y="420" width="72" height="30" rx="15" fill="#FEF3C7"/>
+  <text x="328" y="439" fill="#B45309" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Paid</text>
+
+  <rect x="32" y="484" width="356" height="180" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <circle cx="74" cy="544" r="26" fill="#111827"/>
+  <text x="60" y="539" fill="#FBBF24" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700">POPSY</text>
+  <text x="53" y="550" fill="#FDE68A" font-family="Arial, Helvetica, sans-serif" font-size="6">SIGNATURE</text>
+  <text x="112" y="528" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">Order #100031</text>
+  <text x="112" y="552" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="12">1 item " 25 Apr, 2026 " 09:09 AM</text>
+  <rect x="112" y="566" width="92" height="26" rx="13" fill="#DCFCE7"/>
+  <text x="136" y="583" fill="#166534" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Confirmed</text>
+  <rect x="212" y="566" width="54" height="26" rx="13" fill="#FEF3C7"/>
+  <text x="231" y="583" fill="#92400E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Paid</text>
+  <text x="112" y="624" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="12">Progress</text>
+  <rect x="112" y="634" width="172" height="8" rx="4" fill="#E2E8F0"/>
+  <rect x="112" y="634" width="126" height="8" rx="4" fill="#10B981"/>
+  <circle cx="138" cy="638" r="10" fill="white" stroke="#10B981" stroke-width="4"/>
+  <circle cx="200" cy="638" r="10" fill="white" stroke="#10B981" stroke-width="4"/>
+  <circle cx="262" cy="638" r="10" fill="white" stroke="#CBD5E1" stroke-width="4"/>
+  <text x="112" y="690" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="12">Amount</text>
+  <text x="112" y="722" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">Rs 3.60</text>
+  <rect x="262" y="690" width="54" height="30" rx="15" fill="#F8FAFC"/>
+  <text x="276" y="709" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Invoice</text>
+  <rect x="324" y="690" width="44" height="30" rx="15" fill="#0F172A"/>
+  <text x="336" y="709" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Track</text>
+
+  <rect x="32" y="686" width="356" height="146" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="56" y="724" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Quick actions block</text>
+  <text x="56" y="752" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="13">Bring support, reorder, and invoice actions closer to the order summary instead of hiding them in small icons.</text>
+  <rect x="56" y="776" width="96" height="34" rx="17" fill="#DBEAFE"/>
+  <text x="82" y="798" fill="#1D4ED8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Support</text>
+  <rect x="164" y="776" width="96" height="34" rx="17" fill="#FEF3C7"/>
+  <text x="188" y="798" fill="#B45309" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Invoice</text>
+  <rect x="272" y="776" width="96" height="34" rx="17" fill="#DCFCE7"/>
+  <text x="298" y="798" fill="#166534" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Reorder</text>
+
+  <text x="32" y="886" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12">Mobile concept: larger cards, condensed filters, better spacing, and thumb-friendly actions.</text>
+</svg>
